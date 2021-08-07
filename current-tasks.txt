@@ -1,0 +1,88 @@
+﻿/*
+
++ 11. Write a C# Sharp program that takes an age (for example 20) as input and prints something as 
+"You look older than 20". 
+Test Data:
+Enter your age - 25
+Expected Output:
+You look older than 25
+
+
++12. Write a C# program to that takes a number as input and display it four times in a row (separated by blank spaces), 
+and then four times in the next row, with no separation. 
+You should do it two times: Use Console. Write and then use {0}.
+
+Test Data:
+Enter a digit: 25
+Expected Output:
+25 25 25 25
+25252525
+25 25 25 25
+25252525
+
++13. Write a C# program that takes a number as input and then displays
+a rectangle of 3 columns wide and 5 rows tall using that digit. 
+Test Data:
+Enter a number: 5
+Expected Output:
+555
+5 5
+5 5
+5 5
+555
+
+
++14. Write a C# program to convert from celsius degrees to Kelvin and Fahrenheit. 
+Test Data:
+Enter the amount of celsius: 30
+Expected Output:
+Kelvin = 303
+Fahrenheit = 86
+
+
++15. Write a C# program remove specified a character from a non-empty string using index of a character. 
+Test Data:
+w3resource
+Sample Output:
+wresource
+w3resourc
+3resource
+
+
++16. Write a C# program to create a new string from a given string where the first and last 
+characters will change their positions. 
+Test Data:
+w3resource
+Python
+Sample Output:
+e3resourcw
+nythoP
+x
+
+
++17. Write a C# program to create a new string from a given string (length 1 or more ) with the 
+first character added at the front and back. 
+Sample Output:
+Input a string : The quick brown fox jumps over the lazy dog.
+TThe quick brown fox jumps over the lazy dog.T
+
+
++18. Write a C# program to check two given integers and return true if one is negative and one is positive. 
+Sample Output:
+Input first integer:
+-5
+Input second integer:
+25
+Check if one is negative and one is positive:
+True
+
+
++19. Write a C# program to compute the sum of two given integers, if 
+two values are equal then return the triple of their sum. 
+
+
++20. Write a C# program to get the absolute value of the difference between two given numbers. 
+Return double the absolute value of the difference if the first number is greater than second number. 
+
+
+*/

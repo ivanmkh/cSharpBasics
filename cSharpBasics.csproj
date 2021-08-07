@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="current-tasks.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="current-tasks.txt" />
+  </ItemGroup>
+
 </Project>
